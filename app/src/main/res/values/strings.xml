@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AdrecMap</string>
+    <string name="location_refused">Location permission refused</string>
 </resources>
